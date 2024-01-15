@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "login-app",
-    "slug": "login-app",
+    "name": "threads-app",
+    "slug": "threads-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
